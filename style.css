@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Poppins",
+    sans-serif;
+    
+
+}
+
+.bg_img{
+    width: 100%;
+}
+.edit_btn{
+    text-decoration: none;
+    color: black;
+}
+.delete_btn{
+    text-decoration: none;
+    color: black;
+}
